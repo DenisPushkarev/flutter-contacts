@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "888316949889",
+    "firebase_url": "https://business-contacts-a7ede.firebaseio.com",
+    "project_id": "business-contacts-a7ede",
+    "storage_bucket": "business-contacts-a7ede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888316949889:android:0781513f3f5727c5b06480",
+        "android_client_info": {
+          "package_name": "pro.pushkarev.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888316949889-2kg67bc73aphv4du5r6qp3ftadv68ahl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByxTYk-np6JAzYHlz8SHsDjJzvswI-_yw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888316949889-2kg67bc73aphv4du5r6qp3ftadv68ahl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
